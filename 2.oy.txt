@@ -1,0 +1,4 @@
+l=[]
+Movie_name_with_rating={"bhag milkha":9,"happy bhag jaegi":7,"Dabangg":5}
+for movie in Movie_name_with_rating:
+    l.append(movie)
